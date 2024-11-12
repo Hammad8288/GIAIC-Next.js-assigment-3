@@ -1,0 +1,1 @@
+# GIAIC-Next.js-assigment-3
