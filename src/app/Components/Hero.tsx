@@ -13,9 +13,9 @@ export default function Hero() {
             plan, analyze and manage everyday tasks
           </p>
         </div>
-        <div className="w-[219px] h-[63px] p-[20px] gap-3 bg-[#4F9CF9] rounded-lg hover:cursor-pointer flex flex-row justify-center items-center text-lg font-[560] mt-[60px] ">
-          <button className="flex items-center justify-center h-full w-full text-[18px] leading-[23px] font-[500px]  tracking-[-0.02em] ">
-            Try Whitepace free <span className="ml-2 mt-1"><FaArrowRight /></span>
+        <div className="w-[219px] h-[63px] bg-[#4F9CF9] rounded-lg hover:cursor-pointer mt-[60px] flex justify-center items-center">
+          <button className="flex items-center justify-center w-full h-full text-[18px] leading-[23px] font-[500]">
+            Try Whitepace free <span className="ml-1"><FaArrowRight /></span>
           </button>
         </div>
       </div>
