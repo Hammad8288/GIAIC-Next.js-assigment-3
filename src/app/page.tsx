@@ -1,11 +1,11 @@
-import Hero from "./components/Hero";
-import Navbar from "./components/Navbar";
-import Work from "./components/Work";
-import Extension from "./components/Extension";
-import Customize from "./components/Customize";
-import EveryWhere from "./components/EveryWhere";
-import Sponsors from "./components/Sponsors";
-import Footer from "./components/Footer";
+import Hero from "./Components/Hero";
+import Navbar from "./Components/Navbar";
+import Work from "./Components/Work";
+import Extension from "./Components/Extension";
+import Customize from "./Components/Customize";
+import EveryWhere from "./Components/EveryWhere";
+import Sponsors from "./Components/Sponsors";
+import Footer from "./Components/Footer";
 
 export default function Home() {
   return (
